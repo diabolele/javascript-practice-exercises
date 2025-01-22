@@ -1,5 +1,9 @@
 JavaScript Practice Exercises
+
+
 DAY 1 
+
+
 This repository contains a collection of JavaScript exercises, each designed to help improve programming skills. The exercises range from basic concepts to more complex tasks, and each solution is designed with clarity and efficiency in mind.
 Exercises Completed
 
@@ -27,7 +31,7 @@ Installation
 
     Clone the repository:
 
-git clone https://github.com/yourusername/javascript-practice-exercises.git
+git clone https://github.com/diabolele/javascript-practice-exercises.git
 
 Navigate into the project directory:
 
